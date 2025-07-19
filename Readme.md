@@ -76,6 +76,7 @@ You'll learn:
 
 ## Project Structure
 
+```
 movie-search-engine/
 ├── public/
 ├── src/
@@ -86,6 +87,7 @@ movie-search-engine/
 ├── .env
 ├── package.json
 └── README.md
+```
 
 ## Contributing
 
